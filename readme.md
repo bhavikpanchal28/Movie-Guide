@@ -9,4 +9,5 @@ The application should be ready to use now.
 
 
 To see the template of my Movie Guide, visit https://bhavikpanchal28.github.io/Movie-Guide/ 
+Feel free to use this template.
 
